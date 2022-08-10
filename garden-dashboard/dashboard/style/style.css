@@ -1,0 +1,30 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+h1, h2, td{
+    text-align: center;
+}
+
+th {
+    font-size: 25px;
+    background-color: cadetblue;
+}
+
+td {
+    font-size: 25px;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h1 {
+    color: red;
+}
